@@ -32,15 +32,6 @@ I bridge the gap between ML research and production deployment. I package open-s
 
 ---
 
-## GitHub Stats
-
-<p>
-  <img height="170" src="profile-summary-card-output/default/3-stats.svg" alt="GitHub Stats" />
-  <img height="170" src="profile-summary-card-output/default/1-repos-per-language.svg" alt="Top Languages" />
-</p>
-
----
-
 [![Website](https://img.shields.io/badge/lucataco.dev-000000?style=flat&logo=safari&logoColor=white)](https://lucataco.dev)
 [![Twitter](https://img.shields.io/badge/@lucatac0-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/lucatac0)
 [![LinkedIn](https://img.shields.io/badge/lucataco-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucataco)
