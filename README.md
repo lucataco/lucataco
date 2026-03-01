@@ -35,8 +35,8 @@ I bridge the gap between ML research and production deployment. I package open-s
 ## GitHub Stats
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucataco&show_icons=true&theme=graywhite&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucataco&layout=compact&theme=graywhite&hide_border=true" alt="Top Languages" />
+  <img height="170" src="profile-summary-card-output/default/3-stats.svg" alt="GitHub Stats" />
+  <img height="170" src="profile-summary-card-output/default/1-repos-per-language.svg" alt="Top Languages" />
 </p>
 
 ---
