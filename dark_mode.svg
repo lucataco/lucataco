@@ -43,7 +43,7 @@ text, tspan {white-space: pre;}
 </text>
 <text x="410" y="30" fill="#c9d1d9">
 <tspan x="410" y="30">luis@catacora ——————————————————————————————————————</tspan>
-<tspan x="410" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">macOS, Linux, Workers</tspan>
+<tspan x="410" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">macOS, Linux, Windows</tspan>
 <tspan x="410" y="70" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">Cloudflare</tspan>
 <tspan x="410" y="90" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">GenAI / DevRel / MLE</tspan>
 <tspan x="410" y="110" class="cc">. </tspan><tspan class="key">Prev</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Replicate (acquired)</tspan>
