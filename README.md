@@ -1,6 +1,9 @@
-# Luis Catacora
-
-**DevRel/MLE at Cloudflare | Previously Replicate | Building AI tools for the community**
+<a href="https://github.com/lucataco">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucataco/lucataco/main/dark_mode.svg">
+    <img alt="Luis Catacora's GitHub Profile" src="https://raw.githubusercontent.com/lucataco/lucataco/main/light_mode.svg">
+  </picture>
+</a>
 
 ---
 
@@ -33,7 +36,7 @@ I bridge the gap between ML research and production deployment. I package open-s
 ---
 
 [![Website](https://img.shields.io/badge/lucataco.dev-000000?style=flat&logo=safari&logoColor=white)](https://lucataco.dev)
-[![Twitter](https://img.shields.io/badge/@lucatac0-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/lucatac0)
+[![Twitter](https://img.shields.io/badge/@lucataco-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/lucataco)
 [![LinkedIn](https://img.shields.io/badge/lucataco-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucataco)
 [![Replicate](https://img.shields.io/badge/lucataco-3D3D3D?style=flat&logo=replicate&logoColor=white)](https://replicate.com/lucataco)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/lucataco)

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" viewBox="0 0 985 530" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Menlo'), local('Monaco');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.cc {fill: #8b949e;}
+text, tspan {white-space: pre;}
+</style>
+<rect viewBox="0 0 985 530" width="985px" height="530px" fill="#f6f8fa" rx="15"/>
+<text x="15" y="30" fill="#24292f" class="ascii">
+<tspan x="15" y="30">          ''`''''``          </tspan>
+<tspan x="15" y="50">       '''       `''``'      </tspan>
+<tspan x="15" y="70">      '        ``''.''`'     </tspan>
+<tspan x="15" y="90">     '      `'``   `    '    </tspan>
+<tspan x="15" y="110">    '           ```      '   </tspan>
+<tspan x="15" y="130">       `.;lnrkm%NN%mwj!:     </tspan>
+<tspan x="15" y="150">      '!|hk%MggggggggM%K|`   </tspan>
+<tspan x="15" y="170">      :!|hk%M@@@@@@@@MNNk!`  </tspan>
+<tspan x="15" y="190">    '.;|jnk%M@gggggggg@MKh;  </tspan>
+<tspan x="15" y="210">    |*:':;;:;hm%Kwnllhnhwk:  </tspan>
+<tspan x="15" y="230">`'  l!  ';;;' |Nml;;ljhnrm!n*</tspan>
+<tspan x="15" y="250">```.j!!!.:!rw*|@@%r|lrr%Mkl%h</tspan>
+<tspan x="15" y="270"> ' .h*lwKKNMm|*N@@g@@@g@MkwN;</tspan>
+<tspan x="15" y="290"> `''h**rKMM%n|h@g@MNggggNr@h </tspan>
+<tspan x="15" y="310">  '' *!|rmk*';:nmrKrnM@MKwr` </tspan>
+<tspan x="15" y="330">     |.:jnl!.`';jrKNhh%KK*   </tspan>
+<tspan x="15" y="350">     !'.hj'`;*hkKkr|lnKmk'   </tspan>
+<tspan x="15" y="370">     .'`lk|.|r%NM%mkmkkk!    </tspan>
+<tspan x="15" y="390">      ' `ll.'!ljnrkN%wh!     </tspan>
+<tspan x="15" y="410">      .` `!|**lhrmNNw|j;     </tspan>
+<tspan x="15" y="430">      .    .|jrkmmwj!jk!     </tspan>
+<tspan x="15" y="450">    ..;        ``.:*rmkh*'.  </tspan>
+<tspan x="15" y="470">     ''        ';|hkmKkr%k   </tspan>
+<tspan x="15" y="490">          `  `';lhwmmkkmK:   </tspan>
+<tspan x="15" y="510">      `'``.;..!|jrkmkkmm:    </tspan>
+</text>
+<text x="410" y="30" fill="#24292f">
+<tspan x="410" y="30">luis@catacora ——————————————————————————————————————</tspan>
+<tspan x="410" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">macOS, Linux, Workers</tspan>
+<tspan x="410" y="70" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">Cloudflare</tspan>
+<tspan x="410" y="90" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">GenAI / DevRel / MLE</tspan>
+<tspan x="410" y="110" class="cc">. </tspan><tspan class="key">Prev</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Replicate (acquired)</tspan>
+<tspan x="410" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Cursor, VS Code, Xcode</tspan>
+<tspan x="410" y="150" class="cc">. </tspan>
+<tspan x="410" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> . </tspan><tspan class="value">Python, TypeScript, Swift</tspan>
+<tspan x="410" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">ML</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">PyTorch, Docker, Workers</tspan>
+<tspan x="410" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">English, Spanish</tspan>
+<tspan x="410" y="230" class="cc">. </tspan>
+<tspan x="410" y="250" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">AI tools for developers</tspan>
+<tspan x="410" y="270" class="cc">. </tspan><tspan class="key">Shipped</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">300+ model deployments</tspan>
+<tspan x="410" y="310">- Contact ——————————————————————————————————————————</tspan>
+<tspan x="410" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">me@lucataco.com</tspan>
+<tspan x="410" y="350" class="cc">. </tspan><tspan class="key">Web</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">lucataco.dev</tspan>
+<tspan x="410" y="370" class="cc">. </tspan><tspan class="key">Twitter</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">@lucataco</tspan>
+<tspan x="410" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">lucataco</tspan>
+<tspan x="410" y="410" class="cc">. </tspan><tspan class="key">Replicate</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">lucataco</tspan>
+<tspan x="410" y="450">- GitHub Stats —————————————————————————————————————</tspan>
+<tspan x="410" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> </tspan><tspan class="value">459</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> </tspan><tspan class="value">2,305</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> </tspan><tspan class="value">611</tspan>
+<tspan x="410" y="490" class="cc">. </tspan><tspan class="key">Models</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">300+ Cog wrappers</tspan>
+<tspan x="410" y="510" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Washington, D.C.</tspan>
+</text>
+</svg>
